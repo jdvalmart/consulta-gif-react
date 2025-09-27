@@ -1,3 +1,4 @@
+Consulta en netlify => https://consulta-gifs.netlify.app/
 Aplicación Básica en React
 
 Este proyecto es una aplicación pequeña desarrollada con React.
@@ -15,12 +16,12 @@ HTML5 / CSS3
 
 Clona este repositorio:
 
-git clone https://github.com/tu-usuario/nombre-del-repo.git
+git clone https://github.com/jdvalmart/Gifexpert-react.git
 
 
 Entra en la carpeta del proyecto:
 
-cd nombre-del-repo
+cd Gifexpert-react
 
 
 Instala las dependencias:
