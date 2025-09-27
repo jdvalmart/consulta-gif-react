@@ -1,15 +1,45 @@
-# React + Vite
+Aplicación Básica en React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación pequeña desarrollada con React.
+El objetivo principal fue practicar el uso de diferentes Hooks de React y aprender a consumir una API de manera sencilla.
 
-Currently, two official plugins are available:
+🚀 Características
+Uso de Hooks de React como useState, useEffect y otros.
+Ejemplo práctico de consumo de API para mostrar datos dinámicos.
+Estructura simple y fácil de entender para fines de aprendizaje.
+🛠️ Tecnologías Utilizadas
+React
+JavaScript (ES6+)
+HTML5 / CSS3
+📦 Instalación
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clona este repositorio:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+git clone https://github.com/tu-usuario/nombre-del-repo.git
 
 
-DrqmJ89kDSpIwWwb5JmzqwRgpjwyhpHi
+Entra en la carpeta del proyecto:
+
+cd nombre-del-repo
+
+
+Instala las dependencias:
+
+npm install
+
+
+Inicia el servidor de desarrollo:
+
+npm start
+
+
+La aplicación se ejecutará en http://localhost:3000.
+
+📚 Aprendizajes
+Manejo básico de Hooks en React.
+Conexión con servicios externos mediante fetch o librerías de cliente HTTP.
+Organización de componentes en un proyecto sencillo.
+📄 Licencia 
+
+Este proyecto se creó con fines de práctica y aprendizaje.
+Eres libre de usarlo, modificarlo y compartirlo.
