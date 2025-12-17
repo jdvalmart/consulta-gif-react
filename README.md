@@ -1,4 +1,4 @@
-# 🧪 Rick & Morty Explorer - React + Vite
+# 🧪 Consulta de gifs - React + Vite
 
 🚀 **Puedes ver la aplicación en vivo aquí:** [consulta gif](https://consulta-gifs.netlify.app/)
 
