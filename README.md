@@ -1,6 +1,8 @@
-Consulta en netlify => https://consulta-gifs.netlify.app/
-Aplicación Básica en React
+# 🧪 Rick & Morty Explorer - React + Vite
 
+🚀 **Puedes ver la aplicación en vivo aquí:** [consulta gif](https://consulta-gifs.netlify.app/)
+
+---
 Este proyecto es una aplicación pequeña desarrollada con React.
 El objetivo principal fue practicar el uso de diferentes Hooks de React y aprender a consumir una API de manera sencilla.
 
@@ -16,7 +18,7 @@ HTML5 / CSS3
 
 Clona este repositorio:
 
-git clone https://github.com/jdvalmart/Gifexpert-react.git
+git clone https://github.com/jdvalmart/consulta-gif-react.git
 
 
 Entra en la carpeta del proyecto:
